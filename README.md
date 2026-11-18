@@ -67,3 +67,6 @@ The league is frozen at **Saturday, November 21, 2026, 6:00 PM America/New_York*
 ## Production still open
 
 Supabase Auth for `@yale.edu`, Row Level Security, and server-side match finalization are sketched in `supabase/migrations/001_init.sql` and `/api/health`. The live app stores the league in the browser. Pointing `NEXT_PUBLIC_DATA_MODE` at Supabase does not yet sign students in or sync rows, because that path needs a real project and a service role that must stay on the server.
+
+## Proof of Grok for y/cs
+<img width="2560" height="1600" alt="Screenshot 2026-11-17 185028" src="https://github.com/user-attachments/assets/9ff40eda-6501-4905-9133-347d78478a1f" />
