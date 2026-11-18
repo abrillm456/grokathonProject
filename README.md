@@ -1,5 +1,7 @@
 # LIFE//RIVAL
 
+VIDEO LINK: https://drive.google.com/file/d/1aqQXUzs72Zro-VNKm4StG1whG7xyTHGH/view?usp=sharing
+
 Your life is the game. Your rival is real.
 
 A Yale Campus League demo: students log a real week, earn Life XP for balance rather than raw hours, and face one rival until Sunday night.
