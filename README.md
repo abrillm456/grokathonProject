@@ -4,6 +4,9 @@ Your life is the game. Your rival is real.
 
 A Yale Campus League demo: students log a real week, earn Life XP for balance rather than raw hours, and face one rival until Sunday night.
 
+### Watch our pitch video for the Grokathon here -->
+https://drive.google.com/file/d/1aqQXUzs72Zro-VNKm4StG1whG7xyTHGH/view?usp=sharing
+
 ## Run it
 
 ```bash
@@ -71,6 +74,3 @@ Supabase Auth for `@yale.edu`, Row Level Security, and server-side match finaliz
 ## Grokathon Materials
 ### Proof of Grok for y/cs
 <img width="2560" height="1600" alt="Screenshot 2026-11-17 185028" src="https://github.com/user-attachments/assets/9ff40eda-6501-4905-9133-347d78478a1f" />
-
-### Video Link
-https://drive.google.com/file/d/1aqQXUzs72Zro-VNKm4StG1whG7xyTHGH/view?usp=sharing
